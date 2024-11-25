@@ -4,7 +4,7 @@
 
 ## 🚀 Link do Projeto
 
-👉 [Acesse o site do projeto aqui](#)  <!-- Substitua o '#' pelo link externo do seu projeto -->
+👉 [Acesse o site do projeto aqui](https://mpaulaorganizer.vercel.app)  <!-- Substitua o '#' pelo link externo do seu projeto -->
 
 ## 📜 Descrição
 
